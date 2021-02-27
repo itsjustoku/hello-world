@@ -1,6 +1,6 @@
 import os
 import time
-print('Hey dude, what's your name ?')
+print('Hey dude, what is your name ?')
 time.sleep(1)
 name = input()
 time.sleep(1)
